@@ -10,7 +10,7 @@ Here's what my web scrapping project does:
 
 1️⃣ **Web Scraping Magic**: I kick-started my project by extracting crucial information from the Flipkart webpage. This included the product title, its price, and the current date. 📅
 
-2️⃣ **Data Collection**: The extracted data was then meticulously saved and appended into my system, forming a dataset that would serve as the cornerstone of my quest for savings. 💾
+2️⃣ **Data Collection**: The extracted data was then meticulously saved and appended into my system, forming a dataset that would serve as the cornerstone of my quest for savings. 💾 
 
 3️⃣ **Price Watchdog**: The "Price Checking Function" checks the laptop's price every day for an entire month. 📈
 
